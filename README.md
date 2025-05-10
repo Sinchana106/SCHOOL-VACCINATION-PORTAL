@@ -38,8 +38,8 @@ This project is a full-stack application development project to manage vaccinati
     database
 
 5. Application login:
-    email = 'sinchana@bits.com'
-    password = 'sinchana'
+    email = 'admin@school.com'
+    password = 'admin123'
 
 ## License
 Sinchana Chandrashekar
